@@ -1,4 +1,4 @@
-# Python 简单教程
+# Python 教程
 
 ## 1. In-Place 运算
 
